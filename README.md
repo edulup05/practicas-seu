@@ -1,4 +1,4 @@
-# Sistemas Empotrados y Ubicuos — Prácticas
+# Sistemas Empotrados y Ubicuos - Prácticas
 
 Repositorio con el código de las seis prácticas de la asignatura.
 Cada práctica trabaja sobre una plataforma diferente (Raspberry Pi Pico W,
